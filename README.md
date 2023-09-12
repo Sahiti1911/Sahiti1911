@@ -4,8 +4,8 @@
   <h6>- 👀 I’m interested in web development, machine learning, and contributing to open-source projects.
   <h6>- 🌱 I’m currently learning Java Programming, React.js, and exploring UX/UI.
   <h6>- 📫 How to reach me
-        <h7>- Email: sahitilakkoju19@gmail.com
-        <h7>- LinkedIn: www.linkedin.com/in/sahiti-lakkoju
+        <h7>- Email: sahitilakkoju19@gmail.com</h7>
+        <h7>- LinkedIn: www.linkedin.com/in/sahiti-lakkoju</h7>
     
 </html>
 <!---
