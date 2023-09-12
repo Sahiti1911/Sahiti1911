@@ -1,8 +1,6 @@
 <html>
-  <head>
-  <title>Hello! Welcome </title>
-  </head>
-  <body>
+  <h1>Hello! Welcome </h1>
+
     <p>
     - 👋 Hi, I’m @Sahiti1911
     - 👀 I’m interested in web development, machine learning, and contributing to open-source projects.
